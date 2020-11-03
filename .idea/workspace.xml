@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5789bb2-9cbc-4c0a-9a4d-e3eb4014ac3f" name="Default Changelist" comment="" />
+    <list default="true" id="a5789bb2-9cbc-4c0a-9a4d-e3eb4014ac3f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/FrameMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/RunMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +14,16 @@
   </component>
   <component name="CompilerWorkspaceConfiguration">
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -18,11 +33,17 @@
     </option>
   </component>
   <component name="ProjectId" id="1jmtFipih0yFlcFpso15B1xyC5v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -30,6 +51,26 @@
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
+  </component>
+  <component name="RunManager">
+    <configuration name="RunMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="view.RunMain" />
+      <module name="JavaFileSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RunMain" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -41,7 +82,45 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604420992379</updated>
+      <workItem from="1604420996555" duration="950000" />
     </task>
+    <task id="LOCAL-00001" summary="OS 课设使用">
+      <created>1604421084149</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604421084149</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="OS 课设使用" />
+    <option name="LAST_COMMIT_MESSAGE" value="OS 课设使用" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="425" y="10" key="CommitChangelistDialog2" timestamp="1604421083396">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="425" y="10" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604421083396" />
+    <state x="687" y="199" key="FileChooserDialogImpl" timestamp="1604421037650">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="687" y="199" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604421037650" />
+    <state x="792" y="393" key="Github.ShareDialog" timestamp="1604421165009">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="792" y="393" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604421165009" />
+    <state x="717" y="413" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604421355601">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="717" y="413" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604421355601" />
+    <state x="596" y="263" key="git4idea.merge.GitPullDialog" timestamp="1604421493883">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="596" y="263" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604421493883" />
   </component>
 </project>
