@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a5789bb2-9cbc-4c0a-9a4d-e3eb4014ac3f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/FrameMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/RunMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/FrameMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/FrameMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +45,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -82,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604420992379</updated>
-      <workItem from="1604420996555" duration="950000" />
+      <workItem from="1604420996555" duration="3307000" />
     </task>
     <task id="LOCAL-00001" summary="OS 课设使用">
       <created>1604421084149</created>
@@ -91,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604421084149</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="OS 课设使用">
+      <created>1604422055449</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604422055449</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,10 +116,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="OS 课设使用" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="425" y="10" key="CommitChangelistDialog2" timestamp="1604421083396">
+    <state x="425" y="10" key="CommitChangelistDialog2" timestamp="1604422054932">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="425" y="10" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604421083396" />
+    <state x="425" y="10" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604422054932" />
     <state x="687" y="199" key="FileChooserDialogImpl" timestamp="1604421037650">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -114,6 +128,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="792" y="393" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604421165009" />
+    <state width="1867" height="258" key="GridCell.Tab.0.bottom" timestamp="1604424302214">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="258" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604424302214" />
+    <state width="1867" height="258" key="GridCell.Tab.0.center" timestamp="1604424302214">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="258" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604424302214" />
+    <state width="1867" height="258" key="GridCell.Tab.0.left" timestamp="1604424302214">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="258" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604424302214" />
+    <state width="1867" height="258" key="GridCell.Tab.0.right" timestamp="1604424302214">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="258" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604424302214" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1604422071150">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604422071150" />
     <state x="717" y="413" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604421355601">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
